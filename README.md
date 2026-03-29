@@ -2,7 +2,7 @@
 QS Impact Skill Challenge DeepBlueSouls
 
 ## Description
-This mod adds a feature where you can kill muatants that appeared because of pollution, clean the oceans by removing trash. Its impact is about educating players about the threat of pollution in the oceans.
+DeepBlueSouls is a mod that adds a feature where you can kill muatants that appeared because of pollution, clean the oceans by removing trash. Its impact is about educating players about the threat of pollution in the oceans.
 
 ## Installation
 1. Download Minetest Luanti
